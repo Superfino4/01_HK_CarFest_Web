@@ -1,0 +1,25 @@
+{
+  "name": "01_inicio_hk_carfest_web",
+  "version": "1.0.0",
+  "description": "una pagina web para el mejor festival de autos de toda venezuela ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Superfino4/01_chatgpt_HK_CarFest_Web.git"
+  },
+  "author": "Raynold Daniel Payares Jaramillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Superfino4/01_chatgpt_HK_CarFest_Web/issues"
+  },
+  "homepage": "https://github.com/Superfino4/01_chatgpt_HK_CarFest_Web#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.3"
+  }
+}
